@@ -1,2 +1,5 @@
-# ru-sds-2021-hw2
-Repository for Homework 2
+# Homework 2, Fall 2021
+
+Please open the .Rmd file in RStudio. All instructions are contained in the file.
+
+Contact Professor Davidson if you have any questions.
